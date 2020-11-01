@@ -1,3 +1,5 @@
+创建项目：
+npm install create-react-app -g(全局安装脚手架工具)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
