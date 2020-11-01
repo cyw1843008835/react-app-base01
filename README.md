@@ -1,15 +1,15 @@
-项目准备：
-npm install create-react-app -g(全局安装脚手架工具)
-create-react-app react-app-base01(创建项目)
+项目准备：                                                 
+npm install create-react-app -g(全局安装脚手架工具)                             
+create-react-app react-app-base01(创建项目)      
 npm start（运行项目）
 
-项目结构：
-react组件 props：示例-名片 code：App.js
-         state：示例-点赞按钮 code：App.js
-         生命周期：示例-电子钟表 code：App.js
-         表单：示例-留言板 code：App.js
-         综合示例-留言板 code：Main.js
-         Context：示例-样式选择 code：Main2.js
+项目结构：    
+react组件 props：示例-名片 code：App.js     
+         state：示例-点赞按钮 code：App.js  
+         生命周期：示例-电子钟表 code：App.js   
+         表单：示例-留言板 code：App.js      
+         综合示例-留言板 code：Main.js      
+         Context：示例-样式选择 code：Main2.js       
          
 
 
