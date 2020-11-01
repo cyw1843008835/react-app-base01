@@ -1,4 +1,4 @@
-<h1>项目准备：</h1>                                                 
+<h2>项目准备：</h2>                                                 
 npm install create-react-app -g(全局安装脚手架工具)                             
 create-react-app react-app-base01(创建项目)      
 npm start（运行项目）
